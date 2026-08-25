@@ -1,118 +1,237 @@
-<p align="center">
-  <img src="YOUR_NEW_HEALTHCARE_BANNER_IMAGE_URL_HERE" width="100%" />
-</p>
+<p align="center"> <img src="YOUR_NEW_IT_SUPPORT_BANNER_IMAGE_URL_HERE" width="100%" /> </p>
+Mered Mulugeta Wassie
 
-# Healthcare Data Analytics Portfolio – Mered Wassie
+IT Support Professional | Technical Support | Network Operations | Troubleshooting | IT Service Management
 
-**Healthcare Data Analyst | Health Informatics | Clinical Data Analytics | Healthcare AI**
+Denver, Colorado | [Phone] | [Email] | LinkedIn
+ | GitHub
 
----
+👨‍💻 Professional Summary
 
-## 🧠 About Me
+Technology and telecom professional with 15+ years of experience in network operations, service fulfillment, security, incident management, troubleshooting, SLA-driven operations, and customer-impacting technical services.
 
-I am a data professional with a strong foundation in **Computer Science, SQL, and Statistical Analysis**, transitioning into **Healthcare Data Analytics and Health Informatics**.
+Experienced in supporting fixed broadband operations serving more than 1 million customers, managing high-volume incidents, coordinating technical escalations, troubleshooting service issues, documenting problems, and working across network and IT environments.
 
-My focus is on transforming healthcare data into actionable insights that improve patient outcomes, optimize hospital operations, and support evidence-based decision-making.
+Strong background in ticket-based support, incident resolution, technical documentation, customer communication, critical thinking, root-cause analysis, escalation management, and service operations.
 
-I am currently building expertise in:
-- Healthcare data standards (ICD-10, CPT, FHIR, HL7)
-- Healthcare analytics and reporting
-- Clinical data interpretation
-- Healthcare data governance and HIPAA compliance
-- Population health and predictive analytics
+Currently transitioning this enterprise-level experience into hands-on IT Support and Technical Support, with current training in AI-Enabled IT Support and continued development in Windows, Active Directory, Microsoft 365, networking, PowerShell, cybersecurity, and automation.
 
-This portfolio showcases hands-on healthcare analytics projects using real-world inspired datasets and industry-relevant tools.
+🛠️ IT Support Skills
+💻 Technical Support & Troubleshooting
+Hardware & Software Troubleshooting
+Windows 10/11
+Computer Configuration & Support
+User Support & Technical Assistance
+Incident Troubleshooting
+Problem Resolution
+Root-Cause Analysis
+Technical Documentation
+Knowledge Base Development
+Remote Support Concepts
+🎫 IT Service Management
+Ticket-Based Support
+Zendesk
+Jira
+ServiceNow Concepts
+Incident Management
+Service Request Management
+Escalation Management
+SLA Management
+MTTR
+ITSM Concepts
+Customer Communication
+🌐 Networking
+TCP/IP
+DNS
+DHCP
+Wi-Fi
+VPN
+IP Addressing
+Network Troubleshooting
+Fixed Broadband
+Network Monitoring
+PRTG
+🔐 Identity, Security & Systems
+Active Directory & Identity Management
+Microsoft 365
+User & Account Management
+Access Management
+Windows Security
+Cybersecurity Fundamentals
+Security Incident Awareness
+Windows Event Logs
+⚙️ Automation & Technical Tools
+PowerShell
+Python
+SQL
+Git
+GitHub
+Automation of Repetitive Tasks
+System Diagnostics
+Data Analysis
+💼 Professional Experience
+Fixed Service Operation Center Director
 
----
+Ethio Telecom | Ethiopia | 15+ years
 
-## 🛠 Skills
+Led fixed-service operations supporting an environment serving more than 1 million fixed broadband customers, with responsibility for service reliability, incident response, escalation, troubleshooting, and customer impact.
+Managed high-volume trouble tickets and service incidents using SLA, MTTR, escalation, documentation, monitoring, and root-cause analysis practices.
+Coordinated cross-functional teams across fixed-network, OSS, CRM, service fulfillment, security, and operations to diagnose and resolve complex technical issues.
+Used PRTG and operational/service-management systems to identify service degradation, investigate incidents, document issues, and support timely escalation.
+Led service-quality, reconciliation, automation, and process-improvement initiatives across CRM, OSS, information systems, and fixed-network platforms.
+Supported copper-to-fiber migration and service-provisioning initiatives requiring validation, troubleshooting, customer communication, and technical coordination.
+Worked in a highly customer-impacting environment where service availability, timely troubleshooting, escalation, and communication were critical.
+Network Security Manager / IT & Network Security Project Rollout Manager
 
-### 📊 Data Analytics & Programming
-- Python (Pandas, NumPy, Scikit-Learn)
-- SQL (Joins, Window Functions, Cohort Analysis)
-- Statistics & Data Analysis
-- Excel (Advanced)
+Ethio Telecom | Ethiopia
 
-### 🏥 Healthcare Data & Informatics
-- Electronic Health Records (EHR) Concepts
-- ICD-10 (Diagnosis Coding)
-- CPT (Procedure Coding)
-- FHIR (Healthcare APIs & Data Exchange)
-- HL7 (Healthcare Messaging Basics)
-- HIPAA (Healthcare Data Privacy & Security)
-- Data Governance & Data Quality
+Managed security-focused technical operations and project rollouts involving incident handling, technical dependencies, risk awareness, documentation, troubleshooting, and escalation.
+Worked across network and IT environments to support secure and reliable technical operations.
+Coordinated technical teams and stakeholders to identify problems, manage dependencies, and resolve operational issues.
+Applied structured troubleshooting, documentation, and escalation practices to technical and security-related incidents.
+IT Fraud Operation Manager / Service Fulfillment Manager / Fixed IP Service Manager
 
-### 📈 Visualization & BI Tools
-- Power BI
-- Tableau
-- Data storytelling & KPI dashboards
+Ethio Telecom | Ethiopia
 
-### ☁️ Tools & Technologies
-- PostgreSQL / MySQL
-- Git & GitHub
-- Python Jupyter Notebooks
-- Basic Cloud Concepts (Azure/AWS)
+Held customer-facing technical and service-management roles involving provisioning, service fulfillment, IP services, troubleshooting, process improvement, and issue resolution.
+Worked with technical teams and stakeholders to investigate and resolve customer-impacting service issues.
+Supported service provisioning and technical validation activities.
+Maintained service-level expectations through communication, troubleshooting, escalation, and coordination.
+Worked with technical and operational systems to support reliable service delivery.
+🧪 Technical Projects
+🖥️ IT Hardware Mastery Lab
 
----
+Python-based computer health and performance diagnostic project designed to demonstrate practical IT support capabilities.
 
-## 🏥 Healthcare Analytics Projects
+Skills demonstrated:
 
-### 📊 Hospital Readmission Risk Analysis
-- Built SQL-based analysis to identify 30-day hospital readmission patterns
-- Analyzed patient demographics, diagnosis codes, and admission history
-- Generated insights to support early intervention strategies
-- Tools: SQL, Python, Power BI
+Hardware/system diagnostics
+System information gathering
+Performance monitoring
+Python scripting
+Troubleshooting
+Technical reporting
+Automation
 
----
+Tools: Python, Windows, Git/GitHub
 
-### 📈 Population Health Dashboard
-- Designed interactive dashboard tracking chronic disease trends
-- Visualized diabetes, hypertension, and preventive care metrics
-- Supported population-level healthcare decision-making
-- Tools: Power BI, SQL
+🔐 Full-Spectrum Cybersecurity Portfolio
 
----
+Hands-on cybersecurity project focused on analyzing Windows Event Logs and identifying potential security-related activity.
 
-### 🧬 Healthcare Data Quality & Governance Project
-- Performed data validation checks on healthcare datasets
-- Identified missing values, duplicates, and inconsistent records
-- Applied basic healthcare data governance principles
-- Tools: Python, SQL
+Skills demonstrated:
 
----
+Windows Event Logs
+Security monitoring
+Threat detection concepts
+Log analysis
+Incident investigation
+Documentation
+Git/GitHub
 
-### 🔗 FHIR Healthcare Data Exploration (Beginner Project)
-- Explored FHIR structure (Patient, Observation, Encounter resources)
-- Simulated healthcare API data ingestion
-- Analyzed structured clinical data formats
-- Tools: Python, JSON, FHIR concepts
+Tools: Windows, Python, Git/GitHub
 
----
+🌐 Network Troubleshooting Lab
 
-## 📜 Certifications
+Hands-on networking project focused on diagnosing common connectivity and configuration problems.
 
-- Microsoft Certified: Power BI Data Analyst (PL-300)
-- ISC2 Certified in Cybersecurity (CC)
-- Project Management Professional (PMP) – PMI
-- Certified Health Data Analyst (CHDA) – Planned
-- SQL & Python – Self-Directed Projects
----
+Skills demonstrated:
 
-## 🎯 Career Focus
+TCP/IP
+DNS
+DHCP
+IP configuration
+Connectivity troubleshooting
+Network diagnostics
+Root-cause analysis
+
+Tools: Windows, networking tools, Wireshark, Git/GitHub
+
+🎫 Help Desk Ticket Simulation
+
+Simulated IT support environment demonstrating the process of receiving, documenting, troubleshooting, escalating, and resolving common user technical issues.
+
+Example scenarios:
+
+Password reset
+Account access issue
+Wi-Fi connectivity problem
+Slow computer
+Software installation issue
+Printer problem
+Microsoft 365 access issue
+
+Skills demonstrated:
+
+Ticket documentation
+Troubleshooting
+Customer communication
+Incident prioritization
+Escalation
+Resolution documentation
+SLA awareness
+⚙️ PowerShell IT Support Automation
+
+Collection of PowerShell scripts designed to automate common IT support and system administration tasks.
+
+Example tasks:
+
+System information collection
+Disk space checks
+Network configuration checks
+Windows service checks
+User/account information
+Basic troubleshooting diagnostics
+
+Tools: PowerShell, Windows, Git/GitHub
+
+📜 Certifications & Training
+ISC2 Certified in Cybersecurity (CC) — Certified
+Google IT Support Professional Certificate — Completed
+Microsoft Certified: Power BI Data Analyst (PL-300) — Certified
+Project Management Professional (PMP) — Certified
+WorldQuant University / Applied Data Science — Completed
+CompTIA A+ — In Progress
+CompTIA Security+ SY0-701 — In Progress
+AI-Enabled IT Support — ActivateWork / Per Scholas — Current Training
+🎓 Education
+
+MBA, Project Management
+St. Mary’s University
+
+BSc, Computer Science & Engineering
+Mekelle Institute of Technology
+
+📚 Currently Developing
+
+I am currently strengthening my hands-on IT Support capabilities in:
+
+Windows Administration
+Active Directory
+Microsoft 365
+PowerShell
+Networking
+Hardware & Software Troubleshooting
+ITSM & Help Desk Operations
+Cybersecurity Fundamentals
+AI-Enabled IT Support
+Technical Documentation
+IT Support Automation
+🎯 Career Focus
 
 Actively seeking opportunities in:
 
-- Healthcare Data Analyst
-- Health Informatics Analyst
-- Clinical Data Analyst
-- Population Health Analyst
-- Healthcare BI Analyst
+IT Support Specialist
+IT Support Technician
+Help Desk Technician
+Desktop Support Technician
+Service Desk Analyst
+Technical Support Specialist
+IT Operations Support
+Network Support Technician
 
-Open to **Denver-based and remote healthcare analytics roles**
+Open to Denver-based and remote IT Support opportunities.
 
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/meredwassie/
-- GitHub: https://github.com/meredwassie-jpg
+📫 Contact
+LinkedIn: https://www.linkedin.com/in/meredwassie/
+GitHub: https://github.com/meredwassie-jpg
